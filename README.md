@@ -398,6 +398,8 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 
 ## Threat intelligence
 
+- [Malware Families Catalog](https://jordanricky1604-ship-it.github.io/malware-families-catalog/) - An expert-curated encyclopedia of 2,899 malware families. Features dynamic MITRE ATT&CK mappings, interactive incident response checklists, actionable IOCs, and is authored by Senior Incident Responders. Datasets available in Parquet/JSONL with a free JSON API. Also on [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog) and [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog).
+
 See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 - [AttackerKB](https://attackerkb.com/) - Free and public crowdsourced vulnerability assessment platform to help prioritize high-risk patch application and combat vulnerability fatigue.
