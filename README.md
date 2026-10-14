@@ -398,14 +398,13 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 
 ## Threat intelligence
 
-- [Malware Families Catalog](https://jordanricky1604-ship-it.github.io/malware-families-catalog/) - An expert-curated encyclopedia of 2,899 malware families. Features dynamic MITRE ATT&CK mappings, interactive incident response checklists, actionable IOCs, and is authored by Senior Incident Responders. Datasets available in Parquet/JSONL with a free JSON API. Also on [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog) and [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog).
-
 See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 - [AttackerKB](https://attackerkb.com/) - Free and public crowdsourced vulnerability assessment platform to help prioritize high-risk patch application and combat vulnerability fatigue.
 - [DATA](https://github.com/hadojae/DATA) - Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.
 - [Forager](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+- [Malware Families Catalog](https://malware-families-catalog.systemhelpdesk.com/) - Curated encyclopedia and dataset of 2,903 malware families mapped to MITRE ATT&CK with detection queries and defense playbooks. Available in Parquet and JSONL formats with an open JSON API.
 - [MLSec Combine](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - Open source software solution for collecting, storing, distributing and sharing cyber security indicators.
 - [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.
